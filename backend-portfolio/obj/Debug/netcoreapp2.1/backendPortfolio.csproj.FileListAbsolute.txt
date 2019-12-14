@@ -1,0 +1,14 @@
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\portfolio-dotnet\backend-portfolio\backend-portfolio\bin\Debug\netcoreapp2.1\backendPortfolio.deps.json
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\portfolio-dotnet\backend-portfolio\backend-portfolio\bin\Debug\netcoreapp2.1\backendPortfolio.runtimeconfig.json
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\portfolio-dotnet\backend-portfolio\backend-portfolio\bin\Debug\netcoreapp2.1\backendPortfolio.runtimeconfig.dev.json
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\portfolio-dotnet\backend-portfolio\backend-portfolio\bin\Debug\netcoreapp2.1\backendPortfolio.dll
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\portfolio-dotnet\backend-portfolio\backend-portfolio\bin\Debug\netcoreapp2.1\backendPortfolio.pdb
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\portfolio-dotnet\backend-portfolio\backend-portfolio\obj\Debug\netcoreapp2.1\backendPortfolio.csprojAssemblyReference.cache
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\portfolio-dotnet\backend-portfolio\backend-portfolio\obj\Debug\netcoreapp2.1\backendPortfolio.csproj.CoreCompileInputs.cache
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\portfolio-dotnet\backend-portfolio\backend-portfolio\obj\Debug\netcoreapp2.1\backendPortfolio.RazorAssemblyInfo.cache
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\portfolio-dotnet\backend-portfolio\backend-portfolio\obj\Debug\netcoreapp2.1\backendPortfolio.RazorAssemblyInfo.cs
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\portfolio-dotnet\backend-portfolio\backend-portfolio\obj\Debug\netcoreapp2.1\backendPortfolio.AssemblyInfoInputs.cache
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\portfolio-dotnet\backend-portfolio\backend-portfolio\obj\Debug\netcoreapp2.1\backendPortfolio.AssemblyInfo.cs
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\portfolio-dotnet\backend-portfolio\backend-portfolio\obj\Debug\netcoreapp2.1\backendPortfolio.RazorTargetAssemblyInfo.cache
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\portfolio-dotnet\backend-portfolio\backend-portfolio\obj\Debug\netcoreapp2.1\backendPortfolio.dll
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\portfolio-dotnet\backend-portfolio\backend-portfolio\obj\Debug\netcoreapp2.1\backendPortfolio.pdb

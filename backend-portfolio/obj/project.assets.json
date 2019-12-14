@@ -11801,9 +11801,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cleber Spirlandeli\\Desktop\\ESTUDOS\\portfolio-dotnet\\backend-portfolio\\backend-portfolio\\backend-portfolio.csproj",
-      "projectName": "backend-portfolio",
-      "projectPath": "C:\\Users\\Cleber Spirlandeli\\Desktop\\ESTUDOS\\portfolio-dotnet\\backend-portfolio\\backend-portfolio\\backend-portfolio.csproj",
+      "projectUniqueName": "C:\\Users\\Cleber Spirlandeli\\Desktop\\ESTUDOS\\portfolio-dotnet\\backend-portfolio\\backend-portfolio\\App.csproj",
+      "projectName": "App",
+      "projectPath": "C:\\Users\\Cleber Spirlandeli\\Desktop\\ESTUDOS\\portfolio-dotnet\\backend-portfolio\\backend-portfolio\\App.csproj",
       "packagesPath": "C:\\Users\\Cleber Spirlandeli\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Cleber Spirlandeli\\Desktop\\ESTUDOS\\portfolio-dotnet\\backend-portfolio\\backend-portfolio\\obj\\",
       "projectStyle": "PackageReference",

@@ -5,6 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Interface\Context\" />
+    <Folder Include="Interface\Dto\" />
+    <Folder Include="Interface\Model\" />
+    <Folder Include="Interface\UnitOfWork\" />
+    <Folder Include="Interface\Repository\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
